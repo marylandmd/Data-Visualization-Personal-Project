@@ -1,2 +1,2 @@
-# Data-Visualization-Personal-Project
+# Power BI & SQL Project | Data Analyst Portfolio
 Personal Project
